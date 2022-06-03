@@ -1,0 +1,23 @@
+C:\Users\maria\Desktop\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp-desktop.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp-desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Desktop\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp_desktop.Form1.resources
+C:\Users\maria\Desktop\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp_desktop.Form2.resources
+C:\Users\maria\Desktop\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp_desktop.Properties.Resources.resources
+C:\Users\maria\Desktop\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp-desktop.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp-desktop.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\tp---app-desktop-mariana-benitez-davinci\tp-desktop\bin\Debug\tp-desktop.exe.config
+C:\Users\maria\Desktop\tp---app-desktop-mariana-benitez-davinci\tp-desktop\bin\Debug\tp-desktop.exe
+C:\Users\maria\Desktop\tp---app-desktop-mariana-benitez-davinci\tp-desktop\bin\Debug\tp-desktop.pdb
+C:\Users\maria\Desktop\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp-desktop.exe
+C:\Users\maria\Desktop\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp-desktop.pdb
+D:\Downloads\Alumnos\maria benitez\tp---app-desktop-mariana-benitez-davinci\tp-desktop\bin\Debug\tp-desktop.exe.config
+D:\Downloads\Alumnos\maria benitez\tp---app-desktop-mariana-benitez-davinci\tp-desktop\bin\Debug\tp-desktop.exe
+D:\Downloads\Alumnos\maria benitez\tp---app-desktop-mariana-benitez-davinci\tp-desktop\bin\Debug\tp-desktop.pdb
+D:\Downloads\Alumnos\maria benitez\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp-desktop.csproj.AssemblyReference.cache
+D:\Downloads\Alumnos\maria benitez\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp_desktop.Form1.resources
+D:\Downloads\Alumnos\maria benitez\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp_desktop.Form2.resources
+D:\Downloads\Alumnos\maria benitez\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp_desktop.Properties.Resources.resources
+D:\Downloads\Alumnos\maria benitez\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp-desktop.csproj.GenerateResource.cache
+D:\Downloads\Alumnos\maria benitez\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp-desktop.csproj.CoreCompileInputs.cache
+D:\Downloads\Alumnos\maria benitez\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp-desktop.exe
+D:\Downloads\Alumnos\maria benitez\tp---app-desktop-mariana-benitez-davinci\tp-desktop\obj\Debug\tp-desktop.pdb
